@@ -39,6 +39,7 @@ services:
       - CONFIG_SESSION_PHONE_CLIENT=Evolution API
       - CONFIG_SESSION_PHONE_NAME=Chrome
       - LANGUAGE=en
+      - DEL_INSTANCE=false
     expose:
       - 8080
 
