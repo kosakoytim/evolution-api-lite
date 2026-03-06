@@ -39,3 +39,4 @@ https://github.com/sponsors/EvolutionAPI
 Evolution API Lite is licensed under the Apache License 2.0. See LICENSE for details.
 
 © 2024 Evolution API# Dokploy deployment
+# Auto-redeploy test
