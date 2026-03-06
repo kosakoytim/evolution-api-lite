@@ -1,9 +1,7 @@
 services:
   api:
     container_name: evolution_api
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: atendai/evolution-api:v2.2.1
     restart: always
     depends_on:
       postgres:
